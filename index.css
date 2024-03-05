@@ -91,6 +91,16 @@
 .tarjeta{
     width: 80%;
 }
+footer{
+    padding: 20px;
+    text-align: center;
+    border-top: 1px solid red;
+    font-size: 20px;
+}
+footer a{
+    text-decoration: none;
+    color: black
+}
 @media only screen and (min-width: 600px) {
     #video{
         height: 300px;
